@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<div id="blog-ad">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Blog Ad -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6694288535943405"
+     data-ad-slot="1222425570"
+     data-ad-format="auto"></ins>
+<script>
+  </div>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
+  {% include disqus.html %}
+</article>
