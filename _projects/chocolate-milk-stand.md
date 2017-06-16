@@ -1,5 +1,5 @@
 ---
-layout: game
+layout: project
 title: Chocolate Milk Stand
 genre: Simulation
 platforms: Android, iOS
