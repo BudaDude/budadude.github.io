@@ -12,4 +12,4 @@ I am an independent game developer. I have published two games online and I have
 
 ### Contact me
 
-[georgenancejr@gmail.com](mailto:georgenancejr@gmail.com)
+[contact@georgenance.com](mailto:contact@georgenance.com)
