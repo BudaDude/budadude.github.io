@@ -14,15 +14,6 @@ avatar: https://pbs.twimg.com/profile_images/831288991467003904/-H0P_m5G_400x400
 timezone: America/Phoenix
 
 collections:
-  games:
-    output: true
-    permalink: /games/:title
-    genre:
-    platforms:
-    language:
-    release_date:
-    banner_image:
-    url:
   projects:
     output: true
     permalink: /projects/:title
