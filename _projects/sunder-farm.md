@@ -1,5 +1,5 @@
 ---
-layout: game
+layout: project
 title: Sunder Farm
 genre: Simulation
 platforms: Windows, Linux, MacOS, Web
