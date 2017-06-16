@@ -1,5 +1,5 @@
 ---
-layout: game
+layout: project
 title: Playground Panic
 genre: Arcade
 platforms: Windows, Web
