@@ -64,6 +64,15 @@ baseurl: ""
 defaults:
   -
     scope:
+      path: "posts"
+      type: "posts"
+    values:
+      layout: "post"
+      type: "posts"
+      author: "George Nance"
+      permalink: /blog/:title
+-
+    scope:
       path: "projects"
       type: "pages" # previously `page` in Jekyll 2.2.
     values:
@@ -106,4 +115,3 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-minimal
