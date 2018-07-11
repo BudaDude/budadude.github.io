@@ -64,7 +64,7 @@ baseurl: ""
 defaults:
   -
     scope:
-      path: ""
+      path: "posts"
       type: "posts"
     values:
       layout: "post"
