@@ -68,7 +68,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      type: "posts"
       author: "George Nance"
       permalink: /blog/:title
 -
